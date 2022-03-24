@@ -1,0 +1,12 @@
+#logout_button{
+    color:black;
+background-color:palevioletred;
+height: 40px;
+width: 100px;
+align-items: right;
+font-size: 25px;
+}
+
+body{
+    background-color: rgb(228, 177, 126);
+}
